@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/vrushibh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vrushibh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vrushibh-patel-7576261b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"height="30" width="40" /></a>
-<a href="https://fb.com/vrushibh Patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vrushibh patel" height="30" width="40" /></a>
+<a href="https://fb.com/vrushibh.Patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vrushibh patel" height="30" width="40" /></a>
 <a href="https://instagram.com/vrushibh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vrushibh" height="30" width="40" /></a>
 </p>
 
